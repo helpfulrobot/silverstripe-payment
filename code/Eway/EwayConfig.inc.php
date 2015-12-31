@@ -25,3 +25,4 @@
     $eWAY_CustomerID = "87654321";    // Set this to your eWAY Customer ID
    $eWAY_PaymentMethod = REAL_TIME;  // Set this to the payment gatway you would like to use (REAL_TIME, REAL_TIME_CVN or GEO_IP_ANTI_FRAUD)
    $eWAY_UseLive = false; // Set this to true to use the live gateway
+
